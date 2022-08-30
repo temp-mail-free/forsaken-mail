@@ -3,6 +3,8 @@ Forsaken-Mail
 A self-hosted disposable mail service.
 
 [Online Demo](http://disposable.dhc-app.com)
+
+5 great 10 minute mail websites:
 https://email10min.com/
 https://www.mailtemp.net/
 https://10minmailnet.com/
